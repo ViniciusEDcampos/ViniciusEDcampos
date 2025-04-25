@@ -8,10 +8,6 @@ Estou começando no GitHub agora e pretendo postar meus projetos aqui futurament
 - 📫 Contate-me: Email: Viniciuseduardo1403@gmail.com 
 - 😄 Pronome: Ele/dele
 
-<url>https://wallpapers.com/images/hd/goku-pictures-a6dwgn4c7qryoug8.jpg</url>
-
-
-
 
 <!--
 -->

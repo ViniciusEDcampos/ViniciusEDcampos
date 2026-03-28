@@ -2,9 +2,7 @@
 
 **Desenvolvedor de Sistemas | Java | MySQL | HTML | CSS**
 
-Sou um desenvolvedor de Belo Horizonte, Minas Gerais, e estou em busca de novos desafios onde eu possa agregar valor com meus conhecimentos.
-
-### Sobre mim
+Sou um desenvolvedor de Belo Horizonte, Minas Gerais, e estou em busca de novos desafios através de uma vaga de estágio, onde eu possa agregar valor com meus conhecimentos
 
 * Sou estudante do 3º semestre do Bacharelado em Ciência da Computação no Centro Universitário de Belo Horizonte (UniBH).
 * Concluí o Curso Técnico em Análise e Desenvolvimento de Sistemas pelo Senac Brasil.
